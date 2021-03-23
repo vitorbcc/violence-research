@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed May 18 19:51:09 GMT-03:00 2016:
+ Inicializando o Derby versão The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instância a816c00e-0154-c610-c5d3-000002c11b38
+no diretório de banco de dados C:\Users\User\Documents\NetBeansProjects\ProjetoPesquisa\rmepesq 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_77-b03
+user.dir=C:\Users\User\Documents\NetBeansProjects\ProjetoPesquisa
+os.name=Windows 8.1
+os.arch=amd64
+os.version=6.3
+derby.system.home=null
+Carregador de classe do banco de dados iniciado - derby.database.classpath=''

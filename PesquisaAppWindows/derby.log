@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun May 29 20:59:34 GMT-03:00 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0154-fef5-5f75-000002f4f158 
+on database directory C:\Users\User\Documents\vitor\PesquisaApp\rmepesq with class loader sun.misc.Launcher$AppClassLoader@7852e922 
+Loaded from file:/C:/Users/User/Documents/vitor/PesquisaApp/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_77-b03
+user.dir=C:\Users\User\Documents\vitor\PesquisaApp
+os.name=Windows 8.1
+os.arch=amd64
+os.version=6.3
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
